@@ -2,6 +2,10 @@
 
 A simple Bash script to monitor basic performance statistics of any Linux server.
 
+## Project URL
+
+https://roadmap.sh/projects/server-stats
+
 ## Description
 
 `server-stats.sh` is a lightweight monitoring tool written in pure Bash. It runs on any Linux distribution without requiring external dependencies, providing a quick overview of system resource usage.
